@@ -19,7 +19,7 @@
 ### 📫 How to reach me:
 
 - **Email**: [prajwalgowda7703@gmail.com](mailto:prajwalgowda7703@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/prajwal-gowda7703/)]
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/prajwal-gowda7703/)
 - **Personal Website**: [**Visit Here**](https://iamprajwal.vercel.app/)
 
 # 💻 Tech Stack:
