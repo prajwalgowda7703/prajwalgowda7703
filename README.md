@@ -8,7 +8,7 @@
 
 -🔍 Actively exploring full-stack development with **Java**, **React**, and **Node.js**.  
 
--🌐 Visit my website to check out some of my live projects: [**My Portfolio**](your-portfolio-link-here).
+-🌐 Visit my website to check out some of my live projects: [**My Portfolio**](https://iamprajwal.vercel.app/).
 
 ### 🌱 What I’m Learning:
 
